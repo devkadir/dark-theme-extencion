@@ -1,0 +1,26 @@
+{
+  "name": "Simplest Theme Changer",
+  "version": "1.0.0",
+  "manifest_version": 2,
+  "description": "Simplest and the most effective theme changer for your beautiful eyes. 🌹🌹🌹 ",
+  "default_icon": "icon.png",
+  "icons": {
+    "128": "icon.png"
+  },
+  "background": {
+    "scripts": ["popup.js"],
+    "persistent": true
+  },
+  "browser_action": {
+    "default_title": "Simplest Theme Changer",
+    "default_popup": "popup.html",
+    "default_icon": "icon.png"
+  },
+  "permissions": ["https://*/*", "http://*/*", "tabs", "activeTab", "storage"],
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["popup.js"]
+    }
+  ]
+}
