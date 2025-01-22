@@ -2,21 +2,21 @@
 
 ## How to use?
 
- 1.Open your browser
+ 1. Open your browser
  
- 2.Click Manage Extencions or Extencions tab from your settings
+ 2. Click Manage Extensions or Extensions tab from your settings
  
- 3.Enable Developer Mode
+ 3. Enable Developer Mode
  
- 4.Then click Load Unpacked
+ 4. Then click Load Unpacked
  
- 5.Upload dark-theme-extencion folder
+ 5. Upload dark-theme-extension folder
  
- 6.Check your Extencions and enable the Simplest Theme Changer Extencion
+ 6. Check your Extensions and enable the Simplest Theme Changer Extension
  
- 7.Pin Extencion to toolbar for easily usage
+ 7. Pin Extension to toolbar for easily usage
  
- 8.Enjoy dark theme
+ 8. Enjoy dark theme
 
 ![youtube](https://github.com/devkadir/dark-theme-extencion/assets/162316345/302428b3-558d-4b1e-8977-398bab551679)
 
